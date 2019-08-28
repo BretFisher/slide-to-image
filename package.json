@@ -1,0 +1,15 @@
+{
+  "name": "slide-to-image",
+  "version": "1.0.0",
+  "description": "use puppeteer to make png's of browser slides",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bret Fisher",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.19.0",
+    "yargs": "^14.0.0"
+  }
+}

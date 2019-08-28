@@ -1,0 +1,12 @@
+version: '2.4'
+
+services:
+
+  s2i:
+    image: bretfisher/s2i
+    build:
+      context: .
+    volumes:
+      - .:/app
+      - ./images:/i
+
