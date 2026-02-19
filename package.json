@@ -9,7 +9,7 @@
   "author": "Bret Fisher",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^1.19.0",
+    "puppeteer": "^24.37.5",
     "yargs": "^14.0.0"
   }
 }
